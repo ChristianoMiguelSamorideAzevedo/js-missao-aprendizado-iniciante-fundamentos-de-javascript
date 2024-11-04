@@ -1,2 +1,2 @@
-# js-missao-aprendizado-iniciante-fundamentos-de-javascript
+# JavaScript -Missao de Aprendizado - Iniciante: Fundamentos de JavaScript
 Repositório das Missões realizadas no Curso Dev Full Stack da Salvatore Academy
